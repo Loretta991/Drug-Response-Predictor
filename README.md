@@ -68,4 +68,10 @@ Weighted bar chart using Seaborn & Matplotlib
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/Feature_Importance_Visualization.ipynb)
 
+---
+## 👀 Return to Projects  
+[![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
+
+## 👤 Return to LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/Return%20to%20LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/elle-grey-8a9307299/)
 
