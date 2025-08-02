@@ -49,8 +49,6 @@ This notebook demonstrates how a trained Random Forest model identifies which in
 
 📘 Open the notebook here:
 
-![Feature Importance Graph](https://github.com/Loretta991/Drug-Response-Predictor/raw/main/output.png)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/Feature_Importance_Visualization.ipynb)
 
 
