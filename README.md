@@ -40,3 +40,13 @@ Useful for bioinformatics, ML beginners, and healthcare AI workflows.
 
 ## ▶️ Run in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/drug_response_predictor.ipynb)
+
+---
+
+## 🔍 Feature Importance Visualization
+
+This notebook demonstrates how a trained Random Forest model identifies which input features (such as Age, Blood Pressure, and Cholesterol) are most influential in predicting drug response. The output includes a colorful, intuitive bar chart for model interpretability and explanation.
+
+📘 Open the notebook here:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/feature_importance_visualization.ipynb)
