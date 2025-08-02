@@ -45,12 +45,27 @@ Useful for bioinformatics, ML beginners, and healthcare AI workflows.
 
 ## 🔍 Feature Importance Visualization
 
-This notebook demonstrates how a trained Random Forest model identifies which input features (such as Age, Blood Pressure, and Cholesterol) are most influential in predicting drug response. The output includes a colorful, intuitive bar chart for model interpretability and explanation.
+🧬 Feature Importance Visualization (Random Forest)
+This notebook highlights which input features had the strongest impact on a trained Random Forest classifier — using a clean, colorful bar chart to show relative weights.
+
+Useful for bioinformatics, ML beginners, and healthcare AI workflows
+
+Shows how model interpretability can guide future drug response modeling or clinical decision-making
+
+Great for learners who want to visually understand how different variables influence model predictions
+
+📊 Includes:
+
+Dummy drug response dataset
+
+Feature engineering & training
+
+Weighted bar chart using Seaborn & Matplotlib
 
 ## 📄 Notebook
 [drug_response_predictor.ipynb](Feature_Importance_Visualization.ipynb)
 
-## ▶️ Run in Colab:
+▶️ Run in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/Feature_Importance_Visualization.ipynb)
 
