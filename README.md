@@ -47,7 +47,10 @@ Useful for bioinformatics, ML beginners, and healthcare AI workflows.
 
 This notebook demonstrates how a trained Random Forest model identifies which input features (such as Age, Blood Pressure, and Cholesterol) are most influential in predicting drug response. The output includes a colorful, intuitive bar chart for model interpretability and explanation.
 
-📘 Open the notebook here:
+## 📄 Notebook
+[drug_response_predictor.ipynb](Feature_Importance_Visualization.ipynb)
+
+## ▶️ Run in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/Drug-Response-Predictor/blob/main/Feature_Importance_Visualization.ipynb)
 
